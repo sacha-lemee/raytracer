@@ -98,6 +98,10 @@ See the complete repository architecture here: [RAYTRACER Project structure](doc
 
 See the full documentation here : [RAYTRACER Documentation](doc/DOCUMENTATION.md)
 
+## Epitech warning
+
+This project was built for the Epitech curriculum. **Epitech students: do not copy this code for your own project.** Copying is forbidden at Epitech and is treated as cheating. Read it to learn if you want, but write your own.
+
 ## Contributing
 
 Contributions are welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
