@@ -45,15 +45,23 @@ This project requires:
 - C++20
 - CMake 3.20+
 - clang++ 20.1.8
+- libconfig++ (scene files parsing)
 
-*No external graphics library is required.*
+```sh
+# Ubuntu / Debian
+sudo apt install build-essential cmake pkg-config libconfig++-dev
+# Fedora
+sudo dnf install gcc-c++ cmake pkgconf libconfig-devel
+```
+
+*No external graphics library is required: renders are written as PPM images in `screenshots/`.*
 
 ### Installation for Linux
 
 1. **Clone the repository:**
 
 ```sh
-git clone git@github.com:sachalemee/raytracer.git
+git clone git@github.com:sacha-lemee/raytracer.git
 ```
 
 2. **Navigate to the project directory:**
