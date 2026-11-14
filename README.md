@@ -94,13 +94,16 @@ Example:
 
 See the complete repository architecture here: [RAYTRACER Project structure](doc/PROJECT_STRUCTURE.md)
 
-
 ## Documentation
 
 See the full documentation here : [RAYTRACER Documentation](doc/DOCUMENTATION.md)
 
+## Contributing
+
+Contributions are welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**, see [LICENSE](LICENSE).
 
 ![RAYTRACER License : MIT](https://img.shields.io/badge/License-MIT-blue.svg)
